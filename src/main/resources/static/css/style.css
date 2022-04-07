@@ -1,0 +1,17 @@
+/* body{
+    background-image: url(https://thumbs.dreamstime.com/b/slice-dark-chocolate-cake-plate-wooden-table-closeup-view-selective-focus-143559856.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: relative;
+    background-size: 100% 100%;
+    height: 50%;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-border{
+    border-radius: 30px;
+} */
+body {
+    background-color: beige;
+}
