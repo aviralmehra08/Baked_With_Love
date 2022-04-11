@@ -13,6 +13,10 @@ Deployment is very easy; war and jar file can be easily deployed in the tomcat s
 war or jar files can be directly deployed on the Tomcat Server and Spring Boot provides the facility to convert our project into war or jar files. Also, the instance of Tomcat can be run on the cloud as well.
 
 
+![image](https://user-images.githubusercontent.com/86891066/162679842-7316dd85-4d08-450f-8f65-e87333133856.png)
+
+
+
 ![Screenshot (738)](https://user-images.githubusercontent.com/86891066/162678938-9f20bd34-b7dc-48c1-8b3d-c70daed28430.png)
 
 ![Screenshot (739)](https://user-images.githubusercontent.com/86891066/162679078-169492e6-76da-4eea-be98-60eb84e4f7ec.png)
