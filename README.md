@@ -2,6 +2,17 @@ BAKED WITH LOVE
 
 This project is an online bakery web application that allows customer to check for different bakery items available at the online shop and then purchase online. This project provides a list of different bakery products displayed online in various categories section. The customer may browse through these items. If the customer wishes to purchase any product(s), he/she may add it to the shopping cart available. Making sure all the features of an e-commerce web application, this online bakery web application (Baked with Love) acts as a central database containing various bakery products. It provides customers online shopping facilities from their homes.
 
+Spring Boot is built on the top of the conventional spring framework. So, it provides all the features of spring and is yet easier to use than spring.
+Unlike the Spring MVC Project, in spring boot everything is auto-configured. We just need to use proper configuration for utilizing a particular functionality.
+For example: If we want to use hibernate (ORM) then we can just add @Table annotation above model/entity class (discussed later) and add @Column annotation to map it to table and columns in the database
+It provides easy maintenance and creation of REST end points:
+Creating a REST API is very easy in Spring Boot. Just the annotation @RestController and @RequestMapping(/endPoint) over the controller class does the work.
+It includes embedded Tomcat-server:
+Unlike Spring MVC project where we have to manually add and install the tomcat server, Spring Boot comes with an embedded Tomcat server, so that the applications can be hosted on it.
+Deployment is very easy; war and jar file can be easily deployed in the tomcat server:
+war or jar files can be directly deployed on the Tomcat Server and Spring Boot provides the facility to convert our project into war or jar files. Also, the instance of Tomcat can be run on the cloud as well.
+
+
 ![Screenshot (738)](https://user-images.githubusercontent.com/86891066/162678938-9f20bd34-b7dc-48c1-8b3d-c70daed28430.png)
 
 ![Screenshot (739)](https://user-images.githubusercontent.com/86891066/162679078-169492e6-76da-4eea-be98-60eb84e4f7ec.png)
