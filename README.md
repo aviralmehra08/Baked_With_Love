@@ -11,7 +11,7 @@ It includes embedded Tomcat-server:
 Unlike Spring MVC project where we have to manually add and install the tomcat server, Spring Boot comes with an embedded Tomcat server, so that the applications can be hosted on it.
 Deployment is very easy; war and jar file can be easily deployed in the tomcat server:
 war or jar files can be directly deployed on the Tomcat Server and Spring Boot provides the facility to convert our project into war or jar files. Also, the instance of Tomcat can be run on the cloud as well.
-
+To run the application - java -jar target/minorproject2-0.0.1-SNAPSHOT.war
 
 ![image](https://user-images.githubusercontent.com/86891066/162679842-7316dd85-4d08-450f-8f65-e87333133856.png)
 
