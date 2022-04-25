@@ -55,7 +55,7 @@ war or jar files can be directly deployed on the Tomcat Server and Spring Boot p
 
 ![Screenshot (756)](https://user-images.githubusercontent.com/86891066/162679423-7dac2c2d-38b5-437d-add3-e172ad7dc1dd.png)
 
-Deployed SpringBoot Project on AWS using AWS Bucket and EC2
+Deployed SpringBoot Project on AWS using S3 Bucket and EC2
 
 ![WhatsApp Image 2022-04-11 at 10 13 46 AM](https://user-images.githubusercontent.com/86891066/162693754-2cd7fcb3-8452-410d-b78f-6be80c5d481b.jpeg)
 
